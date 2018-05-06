@@ -1,0 +1,8 @@
+c:\users\mithun\documents\visual studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe.config
+c:\users\mithun\documents\visual studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe
+c:\users\mithun\documents\visual studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.pdb
+c:\users\mithun\documents\visual studio 2013\Projects\MithunService\MithunService\obj\Debug\MithunService.ProjectInstaller.resources
+c:\users\mithun\documents\visual studio 2013\Projects\MithunService\MithunService\obj\Debug\MithunService.TestService.resources
+c:\users\mithun\documents\visual studio 2013\Projects\MithunService\MithunService\obj\Debug\MithunService.csproj.GenerateResource.Cache
+c:\users\mithun\documents\visual studio 2013\Projects\MithunService\MithunService\obj\Debug\MithunService.exe
+c:\users\mithun\documents\visual studio 2013\Projects\MithunService\MithunService\obj\Debug\MithunService.pdb

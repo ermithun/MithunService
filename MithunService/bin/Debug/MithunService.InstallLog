@@ -1,0 +1,319 @@
+﻿Installing assembly 'C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.InstallLog
+   assemblypath = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe
+Rolling back assembly 'C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.InstallLog
+   assemblypath = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.InstallLog
+   assemblypath = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe
+Rolling back assembly 'C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.InstallLog
+   assemblypath = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.InstallLog
+   assemblypath = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe
+Rolling back assembly 'C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.InstallLog
+   assemblypath = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.InstallLog
+   assemblypath = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe
+Rolling back assembly 'C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.InstallLog
+   assemblypath = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Uninstalling assembly 'C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.InstallLog
+   assemblypath = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe
+Removing EventLog source Service1.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.InstallLog
+   assemblypath = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe
+Rolling back assembly 'C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.InstallLog
+   assemblypath = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.InstallLog
+   assemblypath = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe
+Rolling back assembly 'C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.InstallLog
+   assemblypath = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.InstallLog
+   assemblypath = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe
+Rolling back assembly 'C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.InstallLog
+   assemblypath = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.InstallLog
+   assemblypath = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe
+Rolling back assembly 'C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.InstallLog
+   assemblypath = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.InstallLog
+   assemblypath = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe
+Rolling back assembly 'C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.InstallLog
+   assemblypath = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.InstallLog
+   assemblypath = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe
+Rolling back assembly 'C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.InstallLog
+   assemblypath = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.InstallLog
+   assemblypath = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe
+Installing service MithunService...
+Creating EventLog source MithunService in log Application...
+Rolling back assembly 'C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.InstallLog
+   assemblypath = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe
+Restoring event log to previous state for source MithunService.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.InstallLog
+   assemblypath = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe
+Installing service MithunService...
+Creating EventLog source MithunService in log Application...
+Rolling back assembly 'C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.InstallLog
+   assemblypath = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe
+Restoring event log to previous state for source MithunService.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.InstallLog
+   assemblypath = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe
+Installing service MithunService...
+Creating EventLog source MithunService in log Application...
+Rolling back assembly 'C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.InstallLog
+   assemblypath = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe
+Restoring event log to previous state for source MithunService.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.InstallLog
+   assemblypath = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe
+Installing service MithunService...
+Service MithunService has been successfully installed.
+Creating EventLog source MithunService in log Application...
+Committing assembly 'C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.InstallLog
+   assemblypath = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe
+Installing assembly 'C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.InstallLog
+   assemblypath = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe
+Installing service MithunService...
+Creating EventLog source MithunService in log Application...
+Rolling back assembly 'C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.InstallLog
+   assemblypath = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe
+Restoring event log to previous state for source MithunService.
+Uninstalling assembly 'C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.InstallLog
+   assemblypath = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe
+Removing EventLog source MithunService.
+Service MithunService is being removed from the system...
+Service MithunService was successfully removed from the system.
+Installing assembly 'C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.InstallLog
+   assemblypath = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe
+Installing service MithunService...
+Service MithunService has been successfully installed.
+Creating EventLog source MithunService in log Application...
+Committing assembly 'C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.InstallLog
+   assemblypath = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe
+Uninstalling assembly 'C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.InstallLog
+   assemblypath = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe
+Removing EventLog source MithunService.
+Service MithunService is being removed from the system...
+Service MithunService was successfully removed from the system.
+Attempt to stop service MithunService.
+Installing assembly 'C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.InstallLog
+   assemblypath = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe
+Installing service MithunService...
+Service MithunService has been successfully installed.
+Creating EventLog source MithunService in log Application...
+Committing assembly 'C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.InstallLog
+   assemblypath = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe
+Uninstalling assembly 'C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.InstallLog
+   assemblypath = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe
+Removing EventLog source MithunService.
+Service MithunService is being removed from the system...
+Service MithunService was successfully removed from the system.
+Installing assembly 'C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.InstallLog
+   assemblypath = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe
+Installing service MithunService...
+Service MithunService has been successfully installed.
+Creating EventLog source MithunService in log Application...
+Committing assembly 'C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.InstallLog
+   assemblypath = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe
+Uninstalling assembly 'C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.InstallLog
+   assemblypath = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe
+Removing EventLog source MithunService.
+Service MithunService is being removed from the system...
+Service MithunService was successfully removed from the system.
+Installing assembly 'C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.InstallLog
+   assemblypath = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe
+Installing service MithunService...
+Service MithunService has been successfully installed.
+Creating EventLog source MithunService in log Application...
+Committing assembly 'C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.InstallLog
+   assemblypath = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe
+Uninstalling assembly 'C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.InstallLog
+   assemblypath = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe
+Removing EventLog source MithunService.
+Service MithunService is being removed from the system...
+Service MithunService was successfully removed from the system.
+Installing assembly 'C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.InstallLog
+   assemblypath = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe
+Installing service MithunService...
+Service MithunService has been successfully installed.
+Creating EventLog source MithunService in log Application...
+Committing assembly 'C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.InstallLog
+   assemblypath = C:\Users\Mithun\Documents\Visual Studio 2013\Projects\MithunService\MithunService\bin\Debug\MithunService.exe
